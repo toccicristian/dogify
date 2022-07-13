@@ -81,7 +81,7 @@ from tkinter import filedialog
 import os
 import PIL
 from PIL import Image
-import pikepdf
+
 
 pdf_salida_defaultdir = '~'
 pdf_salida_default = 'output.pdf'
